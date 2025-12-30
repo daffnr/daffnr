@@ -1,25 +1,83 @@
 <h1 align="center">Hi 👋, I'm Daffa Naufal Ramadhan</h1>
-<h3 align="center">A passionate frontend developer from Idonesia</h3>
+<h3 align="center">
+Junior Fullstack Developer from Indonesia 🇮🇩
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daffnr&label=Profile%20views&color=0e75b6&style=flat" alt="daffnr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffnr" alt="daffnr" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://portofolio-delta-ivory.vercel.app](https://portofolio-delta-ivory.vercel.app)
-
-- 📫 How to reach me **daffanr20@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daffa naufal ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daffa naufal ramadhan" height="30" width="40" /></a>
-<a href="https://instagram.com/daffnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daffnr" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daffnr&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daffnr&show_icons=true&locale=en&layout=compact" alt="daffnr" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daffnr&show_icons=true&locale=en" alt="daffnr" /></p>
+- 🎓 Full-Stack Web Development Bootcamp Student (Purwadhika)
+- 💻 Junior Fullstack Developer with hands-on experience in web & mobile development
+- 🌱 Continuously learning modern JavaScript ecosystem
+- 🎯 Career goal: **Professional Fullstack Web Developer**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daffnr&" alt="daffnr" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend & Mobile
+- HTML5, CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- React Native
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- RESTful API
+- Authentication & Authorization
+
+### Database
+- MySQL
+- PostgreSQL
+- Prisma ORM
+- SQLite
+
+### Tools & Others
+- Git & GitHub
+- Docker (basic)
+- Postman
+- Swagger (API documentation)
+
+---
+
+## 🌐 Portfolio & Contact
+
+- 👨‍💻 Portfolio:  
+  👉 **https://portofolio-delta-ivory.vercel.app**
+
+- 📫 Email:  
+  **daffanr20@gmail.com**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daffa-nramadhan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/daffnr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daffnr&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daffnr&show_icons=true&theme=tokyonight" />
+</p>
