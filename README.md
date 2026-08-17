@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daffa Naufal Ramadhan</h1>
+
 <h3 align="center">
-Fullstack Developer from Indonesia 🇮🇩
+Fullstack Web Developer from Indonesia 🇮🇩
 </h3>
 
 <p align="center">
@@ -11,51 +12,89 @@ Fullstack Developer from Indonesia 🇮🇩
 
 ## 👨‍💻 About Me
 
-- 🎓 Full-Stack Web Development Bootcamp Student (Purwadhika)
-- 💻 Junior Fullstack Developer with hands-on experience in web & mobile development
-- 🌱 Continuously learning modern JavaScript ecosystem
-- 🎯 Career goal: **Professional Fullstack Web Developer**
+* 💻 Fullstack Web Developer with hands-on experience building web & mobile applications
+* 🚀 Experienced in developing applications from frontend interfaces to backend APIs, databases, and authentication systems
+* 🧩 Comfortable working with both **JavaScript/TypeScript** and **PHP Native**
+* 🗄️ Experienced with relational databases such as **MySQL** and **PostgreSQL**
+* 🔐 Experienced in implementing **authentication, authorization, RBAC, JWT, and refresh token systems**
+* 🌱 Continuously improving my skills through real-world projects and technical challenges
+* 🎯 Goal: **Keep building practical, scalable, and maintainable applications**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend & Mobile
-- HTML5, CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- React Native
-- Next.js
-- Tailwind CSS
+
+* HTML5, CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+* React Native
+* Tailwind CSS
+* CSS Modules
+* Styled Components
+* Redux Toolkit
+* TanStack Query
+* TanStack Table
+* React Hook Form
+* Zod
+* Framer Motion
+* Recharts
 
 ### Backend
-- Node.js
-- Express.js
-- RESTful API
-- Authentication & Authorization
 
-### Database
-- MySQL
-- PostgreSQL
-- Prisma ORM
-- SQLite
+* PHP Native
+* Node.js
+* Express.js
+* RESTful API
+* Authentication & Authorization
+* JWT
+* RBAC
+* Refresh Token
+* CRUD & API Integration
+
+### Database & ORM
+
+* MySQL
+* PostgreSQL
+* SQLite
+* Supabase
+* Neon
+* Prisma ORM
 
 ### Tools & Others
-- Git & GitHub
-- Docker (basic)
-- Postman
-- Swagger (API documentation)
+
+* Git & GitHub
+* Docker
+* Postman
+* Swagger
+* Vercel
+* Netlify
+* Expo
+
+---
+
+## 🚀 What I Build
+
+* 📊 Admin dashboards & management systems
+* 📦 Inventory & transaction management systems
+* 🎓 KRS / academic management applications
+* 🌐 Business & company websites
+* 📱 Mobile applications
+* 🔐 Authentication & role-based access control systems
+* 🔗 REST API & database-driven applications
 
 ---
 
 ## 🌐 Portfolio & Contact
 
-- 👨‍💻 Portfolio:  
+* 👨‍💻 Portfolio:
   👉 **https://www.daffaramadhan.my.id/**
 
-- 📫 Email:  
-  **daffanr20@gmail.com**
+* 📫 Email:
+  **[daffanr20@gmail.com](mailto:daffanr20@gmail.com)**
 
 ---
 
@@ -71,13 +110,3 @@ Fullstack Developer from Indonesia 🇮🇩
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daffnr&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daffnr&show_icons=true&theme=tokyonight" />
-</p>
