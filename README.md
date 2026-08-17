@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daffa Naufal Ramadhan</h1>
 <h3 align="center">
-Junior Fullstack Developer from Indonesia 🇮🇩
+Fullstack Developer from Indonesia 🇮🇩
 </h3>
 
 <p align="center">
@@ -52,7 +52,7 @@ Junior Fullstack Developer from Indonesia 🇮🇩
 ## 🌐 Portfolio & Contact
 
 - 👨‍💻 Portfolio:  
-  👉 **https://portofolio-delta-ivory.vercel.app**
+  👉 **https://www.daffaramadhan.my.id/**
 
 - 📫 Email:  
   **daffanr20@gmail.com**
